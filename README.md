@@ -131,16 +131,16 @@ Hệ thống web thương mại điện tử chuyên về kinh doanh thời tran
 
 ## 👥 Nhóm Phát Triển
 
-- **Tác giả**: [Tên của bạn]
+- **Tác giả**: Đỗ Nhật Minh - Đỗ Nhật Hào
 - **Ngày**: 04/03/2026
-- **Mục đích**: Đồ án tốt nghiệp / Dự án thực tế
+- **Mục đích**: Đồ án chuyên nghành
 
 ## 📞 Liên Hệ
 
-- Email: [your-email@example.com]
-- GitHub: [your-github]
+- Email: donhatminh2004@gmail.com/donhathao2k4@gmail.com
+- GitHub: 
 
 ---
 
 **© 2026 Fashion AI System. All rights reserved.**
-# DACN_NguyenNhatMinh
+# DACN_DoNhatMinh/DoNhatHao
